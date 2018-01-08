@@ -2,7 +2,7 @@
 layout: post
 title:  "New Year, New Website"
 date:   2018-01-01 21:55:00 -0800
-categories: jekyll update
+categories: update
 ---
 I decided to launch a personal website. Recently I've been getting
 experience using a technology called Jekyll. It generates websites
